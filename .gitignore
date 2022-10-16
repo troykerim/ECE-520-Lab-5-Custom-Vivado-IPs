@@ -1,1 +1,18 @@
+part1/IP_Integrator/
+part1/hardware/*
+!part1/hardware/exports
 
+part2/Custom_IP/lab
+part2/Custom_IP/support
+part2/Custom_IP/xilinxtrng_ip_repo/uart_tx/*
+!part2/Custom_IP/xilinxtrng_ip_repo/uart_tx/src
+
+part3/hardware/*
+!part3/hardware/exports/
+
+part3/software/*
+!part3/software/Lab_5
+part3/software/Lab_5/_ide
+part3/software/Lab_5/.cproject
+part3/software/Lab_5/Lab_5.prj
+part3/software/Lab_5/.gitignore
